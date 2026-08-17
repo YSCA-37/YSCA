@@ -1,0 +1,670 @@
+{
+  "siteConfig": {
+    "name": "YSCA",
+    "subtitle": "剪辑灵感站",
+    "description": "为剪辑师精选网站、素材与优质创作者，让每一份内容都能找到明确来源。",
+    "heroTitle": "创作，从一个",
+    "heroHighlight": "好工具",
+    "heroTitleEnd": "开始",
+    "heroSubtext": "素材、设计与 AI 创作网站，按任务整理成清晰入口",
+    "footerDesc": "为剪辑师整理互联网，让好工具和好创作者更容易被发现",
+    "contacts": [
+      {
+        "id": "c1",
+        "type": "phone",
+        "label": "手机号码",
+        "value": "13128442597"
+      }
+    ],
+    "copyright": "© 2026 YSCA · 第一版",
+    "notice": "尊重原创，持续更新\n一站式聚合音效、音乐、视频、模板、图片、字体等多品类素材网站导航，帮助创作者快速发现优质素材资源\n本站仅作网站索引，所有素材版权归原网站所有\n使用前请仔细阅读各网站的授权协议，侵权麻烦联系删掉",
+    "theme": "light",
+    "customColor": "",
+    "customBgImage": "",
+    "password": "3422517648a",
+    "remoteDataUrl": "",
+    "darkMode": false,
+    "customColors": {
+      "primary": "#2e46ff"
+    },
+    "gradients": {
+      "primary": {
+        "enabled": false,
+        "direction": "to right",
+        "from": "#ffffff",
+        "to": "#ffcce6"
+      },
+      "button": {
+        "enabled": false,
+        "direction": "135deg",
+        "from": "#e5faff",
+        "to": "#feecfe"
+      },
+      "cardBg": {
+        "enabled": false,
+        "direction": "135deg",
+        "from": "#fffafa",
+        "to": "#ffffff"
+      }
+    },
+    "recentColors": [
+      "#2e46ff",
+      "#2ee9ff",
+      "#63e2f1"
+    ],
+    "bgOpacity": 21,
+    "fontSettings": {
+      "family": "",
+      "italic": false,
+      "bold": false,
+      "color": ""
+    }
+  },
+  "mainCategories": [
+    {
+      "id": "id_1786771835477_2bgigv",
+      "name": "作品",
+      "icon": "fa-folder"
+    },
+    {
+      "id": "nav",
+      "name": "网站导航",
+      "icon": "fa-compass"
+    },
+    {
+      "id": "materials",
+      "name": "剪辑素材",
+      "icon": "fa-film"
+    },
+    {
+      "id": "creators",
+      "name": "博主推荐",
+      "icon": "fa-star"
+    }
+  ],
+  "activeMainCat": "id_1786771835477_2bgigv",
+  "subCategories": {
+    "nav": [
+      {
+        "id": "domestic",
+        "name": "国内素材",
+        "desc": "国内图片/视频下载网站",
+        "icon": "fa-image"
+      },
+      {
+        "id": "foreign",
+        "name": "国外素材",
+        "desc": "国外优质素材资源站",
+        "icon": "fa-globe"
+      },
+      {
+        "id": "ai-video",
+        "name": "AI视频",
+        "desc": "AI视频生成与编辑",
+        "icon": "fa-video"
+      },
+      {
+        "id": "ai-image",
+        "name": "AI图像",
+        "desc": "AI图像生成与处理",
+        "icon": "fa-images"
+      },
+      {
+        "id": "online-design",
+        "name": "在线设计",
+        "desc": "在线设计工具与平台",
+        "icon": "fa-pen-ruler"
+      },
+      {
+        "id": "ai-music",
+        "name": "AI音乐音频",
+        "desc": "AI音乐与音频生成",
+        "icon": "fa-music"
+      },
+      {
+        "id": "ai-assistant",
+        "name": "AI助手",
+        "desc": "AI智能助手与工具",
+        "icon": "fa-comments"
+      }
+    ],
+    "materials": [
+      {
+        "id": "video-fx",
+        "name": "视频特效",
+        "desc": "视频后期特效素材",
+        "icon": "fa-explosion"
+      },
+      {
+        "id": "sound-fx",
+        "name": "音效素材",
+        "desc": "各类音效与配乐",
+        "icon": "fa-volume-high"
+      },
+      {
+        "id": "transitions",
+        "name": "转场素材",
+        "desc": "视频转场效果",
+        "icon": "fa-shuffle"
+      },
+      {
+        "id": "id_1786842287705_m2heaq",
+        "name": "调色",
+        "desc": "优质调色lut",
+        "icon": "fa-folder"
+      },
+      {
+        "id": "fonts",
+        "name": "字体素材",
+        "desc": "免费商用字体",
+        "icon": "fa-font"
+      }
+    ],
+    "creators": [
+      {
+        "id": "tutorial-creators",
+        "name": "教程博主",
+        "desc": "优质教程创作者",
+        "icon": "fa-chalkboard-user"
+      },
+      {
+        "id": "ae-creators",
+        "name": "AE博主",
+        "desc": "优秀AE创作者",
+        "icon": "fa-crown"
+      },
+      {
+        "id": "id_1786842368497_fzbu54",
+        "name": "PR博主",
+        "desc": "优质PR创作者",
+        "icon": "fa-folder"
+      }
+    ],
+    "id_1786771835477_2bgigv": []
+  },
+  "activeSubCat": {
+    "nav": "domestic",
+    "materials": "video-fx",
+    "creators": "id_1786842368497_fzbu54",
+    "id_1786771835477_2bgigv": ""
+  },
+  "sites": {
+    "nav": {
+      "domestic": [
+        {
+          "id": "s1",
+          "name": "新片场",
+          "desc": "新片场旗下正版素材库，适合广告、宣传片、短视频和影视制作。",
+          "url": "https://stock.xinpianchang.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 3
+        },
+        {
+          "id": "s5",
+          "name": "熊猫办公",
+          "desc": "提供视频素材、PPT、Word、Excel以及各类办公设计资源。",
+          "url": "https://www.tukuppt.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0,
+          "cloudLinks": []
+        },
+        {
+          "id": "s3",
+          "name": "千库网",
+          "desc": "以免抠PNG和设计背景见长，同时提供视频、摄影图及模板资源。",
+          "url": "https://588ku.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s4",
+          "name": "包图网",
+          "desc": "综合型设计素材网站，覆盖电商、广告、短视频及办公设计资源。",
+          "url": "https://ibaotu.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s2",
+          "name": "光厂",
+          "desc": "专注视频创作素材，涵盖实拍视频、航拍、AE模板、片头和特效。",
+          "url": "https://www.vjshi.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 2
+        },
+        {
+          "id": "s6",
+          "name": "爱给网",
+          "desc": "综合型数字素材下载平台，尤其适合查找视频后期、音效、配乐、3D模型和游戏制作素材。",
+          "url": "https://www.aigei.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s7",
+          "name": "视觉中国",
+          "desc": "国内大型正版视觉内容平台，适合商业广告、媒体配图和企业项目。",
+          "url": "https://www.vcg.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s8",
+          "name": "摄图网",
+          "desc": "面向设计师和新媒体用户，提供照片、视频、背景、插画及模板素材。",
+          "url": "https://699pic.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s9",
+          "name": "潮点视频",
+          "desc": "专注短视频和后期制作，提供实拍素材、特效、片头及剪辑模板。",
+          "url": "https://shipin520.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s10",
+          "name": "图虫创意",
+          "desc": "汇集国内摄影师原创视觉内容，尤其适合中国本土人物与生活场景。",
+          "url": "https://stock.tuchong.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s11",
+          "name": "站酷海洛",
+          "desc": "站酷旗下正版素材平台，提供海量商业图片、高清视频和创意内容授权。",
+          "url": "https://www.hellorf.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0,
+          "cloudLinks": []
+        }
+      ],
+      "foreign": [
+        {
+          "id": "s12",
+          "name": "Shutterstock",
+          "desc": "全球最大的正版图片、视频和音乐素材库之一。",
+          "url": "https://www.shutterstock.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s13",
+          "name": "Adobe Stock",
+          "desc": "Adobe官方素材库，与Creative Cloud深度整合。",
+          "url": "https://stock.adobe.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s14",
+          "name": "Pexels",
+          "desc": "免费高质量图片和视频素材，无需署名即可商用。",
+          "url": "https://www.pexels.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s15",
+          "name": "Pixabay",
+          "desc": "超过200万免费图片、视频和音乐素材。",
+          "url": "https://pixabay.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s16",
+          "name": "Unsplash",
+          "desc": "高质量免费图片素材库，摄影师社区贡献。",
+          "url": "https://unsplash.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s17",
+          "name": "Envato Elements",
+          "desc": "无限下载创意素材，包括视频模板、字体、图形等。",
+          "url": "https://elements.envato.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s18",
+          "name": "Motion Array",
+          "desc": "专业视频模板和素材，适合Premiere、AE等。",
+          "url": "https://motionarray.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s19",
+          "name": "Artgrid",
+          "desc": "电影级视频素材库，适合高端广告和纪录片制作。",
+          "url": "https://artgrid.io/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        }
+      ],
+      "ai-video": [
+        {
+          "id": "s23",
+          "name": "Synthesia",
+          "desc": "企业级AI视频生成平台，支持多语言数字人。",
+          "url": "https://www.synthesia.io/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s24",
+          "name": "D-ID",
+          "desc": "AI数字人与视频对话生成工具。",
+          "url": "https://www.d-id.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s26",
+          "name": "Kling",
+          "desc": "快手旗下AI视频生成模型，支持长视频生成。",
+          "url": "https://klingai.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        }
+      ],
+      "ai-image": [
+        {
+          "id": "s28",
+          "name": "Midjourney",
+          "desc": "顶级AI绘画工具，擅长艺术风格图像生成。",
+          "url": "https://www.midjourney.com/",
+          "icon": "",
+          "tags": [
+            "付费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s29",
+          "name": "DALL·E 3",
+          "desc": "OpenAI推出的AI图像生成模型。",
+          "url": "https://openai.com/dall-e-3",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s33",
+          "name": "通义万相",
+          "desc": "阿里推出的AI绘画工具。",
+          "url": "https://tongyi.aliyun.com/wanxiang",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        }
+      ],
+      "online-design": [
+        {
+          "id": "s34",
+          "name": "Canva",
+          "desc": "在线设计平台，海量模板一键创作。",
+          "url": "https://www.canva.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s35",
+          "name": "Figma",
+          "desc": "专业在线UI设计和协作工具。",
+          "url": "https://www.figma.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s36",
+          "name": "创客贴",
+          "desc": "国内在线设计工具，适合社交媒体和电商设计。",
+          "url": "https://www.chuangkit.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s37",
+          "name": "稿定设计",
+          "desc": "在线设计平台，支持抠图、海报、视频封面等。",
+          "url": "https://www.gaoding.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        }
+      ],
+      "ai-music": [
+        {
+          "id": "id_1786843583512_gfcps6",
+          "name": "妙响",
+          "desc": "汽水音乐，旗下AI音乐创作/发行平台",
+          "url": "https://music.douyin.com/studio",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "cloudLinks": []
+        },
+        {
+          "id": "s40",
+          "name": "AIVA",
+          "desc": "AI音乐作曲工具，适合影视配乐。",
+          "url": "https://www.aiva.ai/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s41",
+          "name": "Soundraw",
+          "desc": "AI音乐生成，可自定义节奏和风格。",
+          "url": "https://soundraw.io/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s42",
+          "name": "Mubert",
+          "desc": "AI生成版权免费音乐，适合视频配乐。",
+          "url": "https://mubert.com/",
+          "icon": "",
+          "tags": [],
+          "file": "",
+          "clicks": 0
+        }
+      ],
+      "ai-assistant": [
+        {
+          "id": "s46",
+          "name": "ChatGPT",
+          "desc": "OpenAI推出的AI对话助手，功能全面。",
+          "url": "https://chat.openai.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0,
+          "cloudLinks": []
+        },
+        {
+          "id": "s48",
+          "name": "通义千问",
+          "desc": "阿里推出的AI大模型助手。",
+          "url": "https://tongyi.aliyun.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s49",
+          "name": "Kimi",
+          "desc": "月之暗面推出的AI助手，擅长长文理解。",
+          "url": "https://kimi.moonshot.cn/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s50",
+          "name": "文心一言",
+          "desc": "百度推出的AI对话助手。",
+          "url": "https://yiyan.baidu.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s51",
+          "name": "豆包",
+          "desc": "字节跳动推出的AI助手。",
+          "url": "https://www.doubao.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        },
+        {
+          "id": "s52",
+          "name": "DeepSeek",
+          "desc": "深度求索推出的AI模型，推理能力强。",
+          "url": "https://deepseek.com/",
+          "icon": "",
+          "tags": [
+            "免费"
+          ],
+          "file": "",
+          "clicks": 0
+        }
+      ]
+    },
+    "materials": {
+      "video-fx": [],
+      "transitions": [],
+      "sound-fx": [],
+      "fonts": [],
+      "id_1786842287705_m2heaq": []
+    },
+    "creators": {
+      "ae-creators": [],
+      "tutorial-creators": [],
+      "id_1786842368497_fzbu54": []
+    },
+    "id_1786771835477_2bgigv": {
+      "": []
+    }
+  },
+  "favorites": []
+}
